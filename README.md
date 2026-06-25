@@ -74,7 +74,7 @@ Some featured projects included in this portfolio:
 * House Price Prediction
 * Health Insurance Predictor
 * Microcredit Loan Repayment Prediction
-* BookNest-
+* BookNest-Smart Library Ecommerce Portal
 
 ### Experience
 
@@ -91,7 +91,7 @@ Visitors can connect with me through the contact section.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+https://github.com/SamhavyaSubhanvitha/Portfolio.git
 ```
 
 2. Open the project folder.
