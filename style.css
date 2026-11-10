@@ -387,23 +387,26 @@ section h1 {
   justify-content:center;
 }
 .glass-item.exp-card {
-  width:280px;
-  height:180px;
+  width:300px;
+  height:220px;
+  padding: 30px;
   display:flex;
-  justify-content:center;
+  flex-direction: column;
+  justify-content:space-between;
   align-items:center;
   font-size:24px;
   color:white;
 }
 .glass-item.exp-card h3{
-  font-size:24px;
+  font-size:22px;
   color:white;
-  line-height:1.4;
+  line-height:1.3;
 }
 .glass-item.exp-card a{
   text-decoration:none;
   color:#9aa4b2;
   font-weight:600;
+  font-size: 15px;
 }
 .glass-item.exp-card a:hover{
   color:white;
