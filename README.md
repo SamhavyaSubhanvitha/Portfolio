@@ -38,7 +38,7 @@ Portfolio/
 │
 ├── style.css
 │
-├── script.js
+├── auth.js
 │
 └── README.md
 ```
