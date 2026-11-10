@@ -387,15 +387,23 @@ section h1 {
   justify-content:center;
 }
 .glass-item.exp-card {
-  width:300px;
-  height:240px;
+  width: 300px;
+  height: 200px;
   padding: 30px;
-  display:flex;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, .05);
+  border: 1px solid rgba(255, 255, 255, .08);
+  backdrop-filter: blur(20px);
+  display: flex;
   flex-direction: column;
-  justify-content:space-between;
-  align-items:flex-start;
-  gap:15px;
-  color:white;
+  justify-content: space-between;
+  transition: .3s;
+  color: white;
+}
+.glass-item.exp-card:hover {
+  transform: translateY(-10px);
+  background: rgba(255, 255, 255, .08);
+  box-shadow: 0 15px 30px rgba(255, 255, 255, .08);
 }
 .glass-item.exp-card h3 {
   font-size:24px;
