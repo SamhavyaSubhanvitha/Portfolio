@@ -417,6 +417,9 @@ section h1 {
     flex-direction: column;
     gap: 8px;
 }
+.exp-links a {
+    font-size: 15px !important;
+}
 .glass-item.exp-card a {
   text-decoration:none;
   color:#9aa4b2;
