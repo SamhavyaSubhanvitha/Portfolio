@@ -392,8 +392,8 @@ section h1 {
   padding: 30px;
   display:flex;
   flex-direction: column;
-  justify-content:flex-start;
-  align-items:center;
+  justify-content:space-between;
+  align-items:flex-start;
   gap:15px;
   color:white;
 }
