@@ -386,7 +386,7 @@ section h1 {
   gap:35px;
   justify-content:center;
 }
-.glass-item exp-card {
+.glass-item.exp-card {
   width:280px;
   height:180px;
   display:flex;
@@ -395,17 +395,17 @@ section h1 {
   font-size:24px;
   color:white;
 }
-.glass-item exp-card h3{
+.glass-item.exp-card h3{
   font-size:24px;
   color:white;
   line-height:1.4;
 }
-.glass-item exp-card a{
+.glass-item.exp-card a{
   text-decoration:none;
   color:#9aa4b2;
   font-weight:600;
 }
-.glass-item exp-card a:hover{
+.glass-item.exp-card a:hover{
   color:white;
 }
 .contact-card {
